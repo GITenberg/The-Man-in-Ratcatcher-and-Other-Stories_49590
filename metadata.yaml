@@ -1,4 +1,8 @@
 _repo: The-Man-in-Ratcatcher-and-Other-Stories_49590
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49590-h/images/img-cover.jpg
 creator:
   author:
     agent_name: McNeile, H. C. (Herman Cyril)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26827
     wikipedia: http://en.wikipedia.org/wiki/H._C._McNeile
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49590#The-Man-in-Ratcatcher-and-Other-Stories
 gutenberg_issued: '2015-08-03'
 gutenberg_type: Text
 identifiers:
